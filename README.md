@@ -18,3 +18,7 @@
 ### Installation and dependencies
   - What is needed to install in order to run the scripts in the repo
   - e.g. for dplyer, add that and its version number
+
+### Contact
+  - List the people in charge of maintaining the scripts/project with emails
+  - Useful for people using the script later if they encounter difficulties
