@@ -21,7 +21,7 @@ Notes from Lozupone Lab GitHub SOP
 1. **Clone your remote repository**
 
     - only need to do this once
-    - mose IDEs have a place to access the terminal
+    - most IDEs have a place to access the terminal
     - type: ```git clone https://github.com/YourName/SpecificRepo```
     - The URL can be found in the GitHub repository and copied by clicking the button to the right of the URL (boxed in red)
        
@@ -56,17 +56,16 @@ Notes from Lozupone Lab GitHub SOP
 ## Commenting your code properly 
 An important best practice to follow is clear and concise commenting of your code. Functions in both R and Python should have specific headers.  
 In R:  
-• Install the Roxygen package  
-• When inside the function: 
-		○ Windows: ctrl + alt + shift + R  
-		○ Mac: command + option + shift + R  
-• Function documentation in R looks like the following 
+  - Install the ```Roxygen``` package  
+  - When inside the function:
+    - Windows: ctrl + alt + shift + R
+    - Mac: command + option + shift + R  
 
 In Python:  
-• Inside your function type 3 quotation marks (e.g., “””)  
-This will create a Docstring that looks like this:  
-<img width="611" alt="image" src="https://github.com/user-attachments/assets/51c5dd0b-7f0a-4add-b658-1f441be42be0">
+  - Inside your function type 3 quotation marks (e.g., ''')  
+  - This will create a Docstring that looks like this:  
+    <img width="611" alt="image" src="https://github.com/user-attachments/assets/51c5dd0b-7f0a-4add-b658-1f441be42be0">
 
-Inside of your functions or even if you have no functions you should document your code. General sections should have a short comment what the task being accomplished is and each loop or conditional statement should have a comment. 
+  - Inside of your functions or even if you have no functions you should document your code. General sections should have a short comment what the task being accomplished is and each loop or conditional statement should have a comment. 
 
-![image](https://github.com/user-attachments/assets/0877e3c4-e578-486d-b71c-3760ab388b2b)
+    ![image](https://github.com/user-attachments/assets/0877e3c4-e578-486d-b71c-3760ab388b2b)
